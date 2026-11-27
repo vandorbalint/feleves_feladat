@@ -1,15 +1,15 @@
-# <Az app neve>: <az ötlet egy mondatban>
+# VisualForge
 
-Hallgató: <a neved>  ·  Platform: <iOS | Android | reszponzív web>
-Figma tervfájl: <link, "anyone with the link can view">
-FigJam kutatási tábla: <link, "anyone with the link can view">
-Prototípus: <link, a 6. lépésből>
+## Hallgató: Vándor Bálint Kristóf    ###Platform:  reszponzív web
+## Figma tervfájl: https://www.figma.com/design/pKQRzWjZuExbn0LxNA0WAt/VisualForge?node-id=0-1&t=znUhkka64rodFEis-1
+## FigJam kutatási tábla: https://www.figma.com/board/Wh6Vxzo9zTr7A7KN4e6C1c/Untitled?node-id=0-1&t=plbQfNssVIBGIHkI-1
+## Prototípus: 
 
 ## Az ötlet egy mondatban
-<App> segít <kiknek>, hogy <mit tegyenek>, amikor <helyzet>.
+### A VisualForge egy AI-alapú, weboldal formájában működő vizuális kereső és referenciagyűjtő rendszer. A felhasználó szöveges leírás vagy meglévő kép alapján kereshet inspirációkat, az AI pedig segít megtalálni a hozzájuk illő vizuális referenciákat. A kiválasztott képeket egy helyen gyűjtheti össze és rendszerezheti, így könnyebben kialakíthatja egy kreatív projekt vizuális világát.
 
 ## Állapot
-- [ ] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
+- [x] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
 - [ ] 2. lépés · Benchmark és interjúk (határidő: 3. alkalom)
 - [ ] 3. lépés · Insightok, perszóna, journey map, probléma (határidő: 4. alkalom)
 - [ ] 4. lépés · Koncepció, oldaltérkép, user flow, drótvázak (határidő: 5. alkalom)
@@ -17,4 +17,4 @@ Prototípus: <link, a 6. lépésből>
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
 ## AI-használat (a teljes projekt)
-<eszköz · mire · mit változtattam rajta>, vagy: nem használtam
+### jó megfogalmazás,Ai api kezelés
